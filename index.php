@@ -6,6 +6,8 @@
     <title>Hello, World!</title>
 </head>
 <body>
-    
+    <?php
+        echo "This is a simple PHP script that outputs 'Hello, World!' to the browser.";
+    ?>
 </body>
 </html>
